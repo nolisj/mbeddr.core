@@ -1585,9 +1585,6 @@
       <node concept="m$f5U" id="6RmoJr9xyqt" role="m$_yh">
         <ref role="m$f5T" node="7tNo_gxoK8q" resolve="com.mbeddr.doc" />
       </node>
-      <node concept="m$f5U" id="5l4WPWBtj0o" role="m$_yh">
-        <ref role="m$f5T" node="5l4WPWBt8tR" resolve="com.mbeddr.doc.devkit" />
-      </node>
       <node concept="m$_yC" id="5A_Zlt6D3p_" role="m$_yJ">
         <ref role="m$_y1" to="90a9:29so9Vb$6Tj" resolve="de.slisson.mps.tables" />
       </node>
@@ -20609,9 +20606,6 @@
           </node>
         </node>
       </node>
-    </node>
-    <node concept="2G$12M" id="5l4WPWBt8tR" role="3989C9">
-      <property role="TrG5h" value="com.mbeddr.doc.devkit" />
       <node concept="3LEwk6" id="7tNo_gxoK9_" role="2G$12L">
         <property role="BnDLt" value="true" />
         <property role="TrG5h" value="com.mbeddr.documentation" />

@@ -6,10 +6,10 @@ configurations {
     jreWin
 }
 
-ext.jdkVersion = '8u112b408.4'
+ext.jdkVersion = '11_0_9-b944.49'
 dependencies {
     mbeddr "com.mbeddr:mbeddr:$mbeddrBuildNumber"
-    jreWin "com.jetbrains.jdk:jdk:${jdkVersion}:windows_x64@tgz"
+    jreWin "com.jetbrains.jdk:jbrsdk:${jdkVersion}:windows-x64@tgz"
 }
 
 task resolve_mbeddr() {

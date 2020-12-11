@@ -93,7 +93,7 @@ task build_installer(type:Exec, dependsOn: [prepare_installer]) {
 task build_dmg(type: CreateDmg) {
     dependsOn build_mbeddrRCP
     rcpArtifact rootProject.file('artifacts/mpsDistribution/mbeddr-macos.zip')
-    jdkDependency "com.jetbrains.jdk:jdk:${jdkVersion}:osx_x64@tgz"
+    jdkDependency "com.jetbrains.jdk:jbrsdk:${jdkVersion}:osx-x64@tgz"
     backgroundImage rootProject.file('rcp/icons/mbeddr-logo.png')
     dmgFile rootProject.file('buildUtil/mbeddr-macos.dmg')
 }

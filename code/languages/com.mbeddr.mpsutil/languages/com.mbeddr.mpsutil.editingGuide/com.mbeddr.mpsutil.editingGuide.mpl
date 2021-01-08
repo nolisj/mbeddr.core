@@ -93,6 +93,7 @@
     <dependency reexport="false">28182ab7-63b2-4f3b-8b5f-ce0a1f88fa81(com.mbeddr.mpsutil.editingGuide.execution)</dependency>
     <dependency reexport="false">04e1f940-330e-483b-9a6a-1648b396a81c(com.mbeddr.mpsutil.hyperlink)</dependency>
     <dependency reexport="false">8f6725be-608d-433b-98fd-844f816eb05f(jetbrains.mps.ide.make)</dependency>
+    <dependency reexport="false">d4280a54-f6df-4383-aa41-d1b2bffa7eb1(com.mbeddr.core.base)</dependency>
   </dependencies>
   <languageVersions>
     <language slang="l:04e1f940-330e-483b-9a6a-1648b396a81c:com.mbeddr.mpsutil.hyperlink" version="0" />

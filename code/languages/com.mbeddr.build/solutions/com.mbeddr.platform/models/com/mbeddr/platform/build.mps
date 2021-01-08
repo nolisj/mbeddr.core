@@ -9767,6 +9767,11 @@
             <ref role="3bR37D" node="7dbZP3ALqdK" resolve="com.mbeddr.mpsutil.editingGuide.execution" />
           </node>
         </node>
+        <node concept="1SiIV0" id="15lV2OJpYRJ" role="3bR37C">
+          <node concept="3bR9La" id="15lV2OJpYRK" role="1SiIV1">
+            <ref role="3bR37D" node="$bJ0jguQfr" resolve="com.mbeddr.core.base" />
+          </node>
+        </node>
       </node>
       <node concept="1E1JtA" id="7dbZP3ALqdK" role="2G$12L">
         <property role="BnDLt" value="true" />

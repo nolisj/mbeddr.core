@@ -198,6 +198,7 @@
       <concept id="1177093525992" name="jetbrains.mps.lang.generator.structure.InlineTemplate_RuleConsequence" flags="lg" index="gft3U">
         <child id="1177093586806" name="templateNode" index="gfFT$" />
       </concept>
+      <concept id="1168559098955" name="jetbrains.mps.lang.generator.structure.RuleConsequence" flags="lg" index="jzcPr" />
       <concept id="1112730859144" name="jetbrains.mps.lang.generator.structure.TemplateSwitch" flags="ig" index="jVnub">
         <child id="1168558750579" name="defaultConsequence" index="jxRDz" />
         <child id="1167340453568" name="reductionMappingRule" index="3aUrZf" />
@@ -3637,30 +3638,7 @@
     </node>
     <node concept="3aamgX" id="5yxqZJwzxJK" role="3acgRq">
       <ref role="30HIoZ" to="vs0r:7gVrg_0tw6m" resolve="TextBlock" />
-      <node concept="gft3U" id="5yxqZJwzxJL" role="1lVwrX">
-        <node concept="3o6iSG" id="5yxqZJwzxJM" role="gfFT$">
-          <property role="3o6i5n" value="Text" />
-          <node concept="2b32R4" id="5yxqZJwzxJN" role="lGtFl">
-            <node concept="3JmXsc" id="5yxqZJwzxJO" role="2P8S$">
-              <node concept="3clFbS" id="5yxqZJwzxJP" role="2VODD2">
-                <node concept="3clFbF" id="5yxqZJwzxJQ" role="3cqZAp">
-                  <node concept="2OqwBi" id="5yxqZJwzxJR" role="3clFbG">
-                    <node concept="2OqwBi" id="5yxqZJwzxKe" role="2Oq$k0">
-                      <node concept="30H73N" id="5yxqZJwzxJS" role="2Oq$k0" />
-                      <node concept="3TrEf2" id="5yxqZJwzxKk" role="2OqNvi">
-                        <ref role="3Tt5mk" to="vs0r:7gVrg_0tw6n" resolve="text" />
-                      </node>
-                    </node>
-                    <node concept="3Tsc0h" id="5yxqZJwzxKm" role="2OqNvi">
-                      <ref role="3TtcxE" to="87nw:2dWzqxEBBFI" resolve="words" />
-                    </node>
-                  </node>
-                </node>
-              </node>
-            </node>
-          </node>
-        </node>
-      </node>
+      <node concept="jzcPr" id="GfNMM3enWv" role="1lVwrX" />
     </node>
     <node concept="avzCv" id="QRmqzHYYDO" role="avys_">
       <node concept="3clFbS" id="QRmqzHYYDP" role="2VODD2">
